@@ -1,0 +1,9 @@
+## Interface: 90100
+## Title: Best In Slot Redux [|cffff975bShadowlands|r|r]
+## Notes: Shadowlands Raid Module for BestInSlotRedux
+## Author: Beleria @ Argent Dawn-EU, Anhility @ Ravencrest-EU, Sar\195\173th @ Tarren Mill-EU, Swarley @ Burning Legion-NA
+## Version: v9.1.0
+## Dependencies: BestInSlotRedux
+
+CastleNathria.lua
+SanctumofDomination.lua
